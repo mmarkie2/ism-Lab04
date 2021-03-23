@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string name="x_sign">x</string>
+
+    <string name="o_sign">o</string>
+    <string name="play_again">Play again</string>
+</resources>
